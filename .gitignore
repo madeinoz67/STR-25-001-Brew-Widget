@@ -58,3 +58,4 @@ site/
 
 poetry.lock
 #TODO: Add CPP / Arduino ignores
+#auto_saved_files#
