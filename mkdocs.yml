@@ -18,8 +18,8 @@ nav:
           - Schematic: checklists/kicad_schematic.md
           - PCB: checklists/kicad_pcb.md
           - Manufacturing - JLPCB: checklists/kicad_jlpcb.md
-      - checklists/sample.md
-      - checklists/sample2.md
+      - Github:
+          - Release: checklists/github_release.md
   - Hardware:
       - Overview: hardware/overview.md
       - Mechanical: hardware/mechanical.md
@@ -37,8 +37,8 @@ nav:
   - References: references.md
 
 # Repository
-repo_name: "madeinoz67/brew-widget"
-repo_url: https://github.com/madeinoz67/brew-widget
+repo_name: "madeinoz67/STR-25-001-Brew-Widget"
+repo_url: https://github.com/madeinoz67/STR-25-001-Brew-Widget
 edit_uri: ""
 
 # plugins
@@ -78,7 +78,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg # Copyright
 
-copyright: Copyright &copy; 2021 Stephen Eaton
+copyright: Copyright &copy; 2025 Stephen Eaton
 
 # footer customisation
 extra:
