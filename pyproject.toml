@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "brew-widget"
-version = "2025.1.1"
+version = "0.0.1"
 description = "ESP32 Based Tilt Hydrometer"
 authors = ["Stephen Eaton"]
 license = "CC-A-SA"

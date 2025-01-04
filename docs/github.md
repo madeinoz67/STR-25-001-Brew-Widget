@@ -77,5 +77,5 @@ The release process is managed by [Github Actions](https://docs.github.com/en/ac
  1. Bump the version number in the `pyproject.toml` file to next version number. This is done by manually editing the file.
  2. Commit Changes and push them back up to github
  3. Pull the latest changes from the master branch into the working copy as will autogenerate CHANGELOG.md
- 4. Tag the latest commit with the new version number and push it back to github.  The action looks for a tag that matches `v*.*.*` e.g. `v1.0.0` or `v2025.1.1` tags not having the `v` prefix will be ignored.
+ 4. Tag the latest commit with the new version number and push it back to github.  The action looks for a tag that matches `v*.*.*` e.g. `v1.0.0`.  tTags not having the `v` prefix will be ignored.
  5. The release process will also build documentation and push to the projects github.io pages site.
