@@ -4,9 +4,7 @@ ESP32 Based Tilt Hydrometer
 
 ## Project Features
 
-* STR-25-001 Brew Widget
-* A starter KiCad project structured similar to <https://hackaday.com/2017/05/18/kicad-best-practises-library-management/>
-* A starter documentation structure based on the <https://hutscape.com/pine/> by Sayanee Basu <https://github.com/sayanee> and her great youtube video around hardware documentation <https://youtu.be/uPitFGqjyPU>.
+- All in one PCB inspired by [iSpindel - DIY electronics Hydrometer](https://www.ispindel.de/)
 
 ## Resources
 

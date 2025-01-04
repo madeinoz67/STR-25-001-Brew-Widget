@@ -1,7 +1,7 @@
 # project information
 site_name: "STR-25-001 Brew Widget"
 site_author: "Stephen Eaton"
-site_description: "ESP32 Based Tilt Hydrometer"
+site_description: "ESP32 Based Tilt Hydrometer for home brewing"
 
 # Configuration
 theme:
@@ -85,7 +85,9 @@ copyright: Copyright &copy; 2025 Stephen Eaton
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/madeinoz67/brew-widget
+      link: https://github.com/madeinoz67
+    - icon: fontawesome/brands/twitter
+      link: "https://twitter.com/madeinoz"
 # Google Analytics
 #google_analytics:
 #  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]

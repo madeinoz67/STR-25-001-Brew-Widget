@@ -2,8 +2,8 @@
 
 - [ ] Ensure the latest version of KiCad is installed and up-to-date.
 - [ ] Add JLPCB Fabrication Toolkit Plugin to KiCad.
-- [ ] Add JLPCB Kicad library as a submodule in kicad library folder '$ git submodule add https://github.com/CDFER/JLCPCB-Kicad-Library.git'
-- [ ] Add any custom Kicad libraries to the 'kicad_libraries' folder.
+- [ ] Add JLPCB Kicad library as a submodule in kicad library folder 'git submodule add https://github.com/CDFER/JLCPCB-Kicad-Library.git'
+- [ ] Add Strobotics Kicad library as a submodule in kicad library folder 'git submodule add https://github.com/madeinoz67/kicad-library.git'
 - [ ] Stack-up aligns with manufacturer capabilities.
 - [ ] Schematic template is set up correctly with the project name, revision, and date.
 
