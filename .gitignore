@@ -58,4 +58,7 @@ site/
 
 poetry.lock
 #TODO: Add CPP / Arduino ignores
-#auto_saved_files#
+*auto_saved_files*
+fp-lib-table
+sym-lib-table
+*.lck
