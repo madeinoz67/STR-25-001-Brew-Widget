@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1376bbaf-6e04-46c3-997e-a362578a2a34")
+	(paper "A4")
+	(title_block
+		(title "ESP32 Based Tilt Hydrometer")
+		(date "2025-01-04")
+		(rev "A")
+		(comment 1 "Author: Stephen Eaton")
+		(comment 2 "Project Github: https://github.com/madeinoz67/brew-widget")
+		(comment 3 "License: CC-A-SA")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
