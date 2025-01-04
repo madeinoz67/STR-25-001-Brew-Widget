@@ -80,25 +80,13 @@
   "project": {
     "files": [
       {
-        "name": "STR-25-001 Brew Widget.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 2,
-          "maximized": false,
-          "pos_x": -1552,
-          "pos_y": -1431,
-          "size_x": 1955,
-          "size_y": 1134
-        }
-      },
-      {
         "name": "STR-25-001 Brew Widget.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
-          "display": 2,
+          "display": 0,
           "maximized": true,
-          "pos_x": -1524,
-          "pos_y": -1389,
+          "pos_x": 7,
+          "pos_y": 45,
           "size_x": 1497,
           "size_y": 929
         }

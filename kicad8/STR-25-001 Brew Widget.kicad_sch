@@ -13,6 +13,82 @@
 		(comment 3 "License: CC-A-SA")
 	)
 	(lib_symbols)
+	(sheet
+		(at 127.254 56.388)
+		(size 24.384 17.526)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3dbd2e9b-f836-4293-8fe4-8df13151a8b8")
+		(property "Sheetname" "Power Supply and Charging"
+			(at 127.254 55.6764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_sch.kicad_sch"
+			(at 127.254 74.4986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STR-25-001 Brew Widget"
+				(path "/1376bbaf-6e04-46c3-997e-a362578a2a34"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127.254 83.058)
+		(size 24.638 16.256)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9a9d2b70-01ae-438e-8d61-15d86bf12dd6")
+		(property "Sheetname" "ESP32"
+			(at 127.254 82.3464 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 127.254 99.8986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STR-25-001 Brew Widget"
+				(path "/1376bbaf-6e04-46c3-997e-a362578a2a34"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
