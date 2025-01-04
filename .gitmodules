@@ -1,0 +1,6 @@
+[submodule "kicad8/library/JLCPCB-Kicad-Library"]
+	path = kicad8/library/JLCPCB-Kicad-Library
+	url = https://github.com/CDFER/JLCPCB-Kicad-Library.git
+[submodule "kicad8/library/kicad-library"]
+	path = kicad8/library/kicad-library
+	url = https://github.com/madeinoz67/kicad-library.git

@@ -14,6 +14,9 @@ _saved_*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.zip
+*.zip~
+*.zip.tmp
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -54,5 +57,4 @@ Temporary Items
 site/
 
 poetry.lock
-
 #TODO: Add CPP / Arduino ignores
