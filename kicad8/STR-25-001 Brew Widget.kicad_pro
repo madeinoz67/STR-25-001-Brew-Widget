@@ -766,14 +766,6 @@
     [
       "1376bbaf-6e04-46c3-997e-a362578a2a34",
       "Root"
-    ],
-    [
-      "3dbd2e9b-f836-4293-8fe4-8df13151a8b8",
-      "Power Supply and Charging"
-    ],
-    [
-      "9a9d2b70-01ae-438e-8d61-15d86bf12dd6",
-      "ESP32"
     ]
   ],
   "text_variables": {}
