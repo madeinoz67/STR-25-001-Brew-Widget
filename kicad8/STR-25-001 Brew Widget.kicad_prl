@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -64,7 +64,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -83,12 +83,24 @@
         "name": "STR-25-001 Brew Widget.kicad_sch",
         "open": true,
         "window": {
-          "display": 0,
+          "display": 1,
           "maximized": true,
-          "pos_x": 7,
-          "pos_y": 45,
-          "size_x": 1497,
-          "size_y": 929
+          "pos_x": 1070,
+          "pos_y": -1399,
+          "size_x": 2560,
+          "size_y": 1399
+        }
+      },
+      {
+        "name": "STR-25-001 Brew Widget.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 2,
+          "maximized": true,
+          "pos_x": -1535,
+          "pos_y": -1319,
+          "size_x": 1955,
+          "size_y": 1134
         }
       }
     ]
