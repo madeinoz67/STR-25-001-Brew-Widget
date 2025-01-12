@@ -92,7 +92,7 @@
       },
       {
         "name": "STR-25-001 Brew Widget.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 2,
           "maximized": true,
