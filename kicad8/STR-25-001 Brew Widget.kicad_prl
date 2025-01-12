@@ -82,12 +82,12 @@
         "name": "STR-25-001 Brew Widget.kicad_sch",
         "open": true,
         "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 1070,
-          "pos_y": -1399,
-          "size_x": 2560,
-          "size_y": 1399
+          "display": 0,
+          "maximized": false,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 0,
+          "size_y": 0
         }
       },
       {
