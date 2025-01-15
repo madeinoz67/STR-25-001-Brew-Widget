@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -82,19 +82,19 @@
         "name": "STR-25-001 Brew Widget.kicad_sch",
         "open": true,
         "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 0,
-          "size_y": 0
+          "display": 1,
+          "maximized": true,
+          "pos_x": 1070,
+          "pos_y": -1399,
+          "size_x": 2560,
+          "size_y": 1399
         }
       },
       {
         "name": "STR-25-001 Brew Widget.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
-          "display": 2,
+          "display": 0,
           "maximized": true,
           "pos_x": -1535,
           "pos_y": -1319,
